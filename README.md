@@ -13,6 +13,10 @@
 
 - [DIST-01 消费者需要更新多个 DB 且不能使用同一事务时，中途宕机如何处理？](distributed-systems/DIST-01-multi-db-crash-recovery-saga.md)
 
+### System Design
+
+- [SYS-01 In-flight work 和长尾延迟是什么意思？](system-design/SYS-01-in-flight-work-and-tail-latency.md)
+
 ## 编号规则
 
 - `MQ`：Message Queue / RabbitMQ / Message Broker
