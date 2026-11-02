@@ -20,6 +20,7 @@
 ### Database
 
 - [DB-01 .NET 数据库连接池与 PgBouncer 如何管理和复用连接？](database/DB-01-dotnet-connection-pooling-and-pgbouncer.md)
+- [DB-02 SQL Server 的 Group Commit、WAL 与数据页落盘是什么关系？](database/DB-02-sql-server-group-commit-wal-and-data-page-flushing.md)
 
 ## 编号规则
 
