@@ -16,6 +16,7 @@
 ### System Design
 
 - [SYS-01 In-flight work 和长尾延迟是什么意思？](system-design/SYS-01-in-flight-work-and-tail-latency.md)
+- [SYS-02 gRPC 如何进行版本控制与 Protobuf 兼容演进？](system-design/SYS-02-grpc-versioning-and-protobuf-compatibility.md)
 
 ### Database
 
