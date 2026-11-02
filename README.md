@@ -17,6 +17,10 @@
 
 - [SYS-01 In-flight work 和长尾延迟是什么意思？](system-design/SYS-01-in-flight-work-and-tail-latency.md)
 
+### Database
+
+- [DB-01 .NET 数据库连接池与 PgBouncer 如何管理和复用连接？](database/DB-01-dotnet-connection-pooling-and-pgbouncer.md)
+
 ## 编号规则
 
 - `MQ`：Message Queue / RabbitMQ / Message Broker
