@@ -18,6 +18,10 @@
 - [SYS-01 In-flight work 和长尾延迟是什么意思？](system-design/SYS-01-in-flight-work-and-tail-latency.md)
 - [SYS-02 gRPC 如何进行版本控制与 Protobuf 兼容演进？](system-design/SYS-02-grpc-versioning-and-protobuf-compatibility.md)
 
+### API Design
+
+- [API-01 REST API 中的资源、URI、参数位置与请求体如何设计？](api-design/API-01-rest-resources-uri-parameters-and-request-body.md)
+
 ### Database
 
 - [DB-01 .NET 数据库连接池与 PgBouncer 如何管理和复用连接？](database/DB-01-dotnet-connection-pooling-and-pgbouncer.md)
@@ -38,6 +42,7 @@
 - `K8S`：Kubernetes / AKS
 - `OBS`：OpenTelemetry / Logging / Metrics / Tracing
 - `SYS`：System Design
+- `API`：API Design / REST / GraphQL / gRPC
 
 ## 归档规则
 
