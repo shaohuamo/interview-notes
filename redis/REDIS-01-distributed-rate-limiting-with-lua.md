@@ -159,6 +159,8 @@ Lua 的原子执行意味着同一节点上，其他请求不能穿插修改脚�
 
 Redis Cluster 下，一个 Key 会路由到对应分片；若脚本需要操作多个 Key，还需满足同槽等约束，不能假设跨分片的任意多 Key 操作天然原子。
 
+多 Key 的执行边界、hash tag 与错误不自动回滚的说明，参见 [REDIS-02 Redis Lua 可以跨多个 Key 实现原子操作吗？](REDIS-02-lua-multi-key-atomicity-and-cluster-slots.md)。
+
 ### 6. 固定窗口为什么有边界突发？
 
 假设旧窗口结束前，用户集中用完剩余额度；新窗口开始后，又立即用完新的额度：

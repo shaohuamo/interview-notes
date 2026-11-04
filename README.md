@@ -30,6 +30,7 @@
 ### Redis
 
 - [REDIS-01 Redis 如何实现 Rate Limit（限流）？](redis/REDIS-01-distributed-rate-limiting-with-lua.md)
+- [REDIS-02 Redis Lua 可以跨多个 Key 实现原子操作吗？](redis/REDIS-02-lua-multi-key-atomicity-and-cluster-slots.md)
 
 ## 编号规则
 
