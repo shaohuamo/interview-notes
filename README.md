@@ -27,6 +27,7 @@
 - [DB-01 .NET 数据库连接池与 PgBouncer 如何管理和复用连接？](database/DB-01-dotnet-connection-pooling-and-pgbouncer.md)
 - [DB-02 SQL Server 的 Group Commit、WAL 与数据页落盘是什么关系？](database/DB-02-sql-server-group-commit-wal-and-data-page-flushing.md)
 - [DB-03 Index Scan 与 Index Seek 有什么区别？](database/DB-03-index-scan-vs-index-seek.md)
+- [DB-04 如何用写后读主库实现读己之写？60 秒窗口如何设置？](database/DB-04-read-your-writes-and-primary-routing-window.md)
 
 ### Redis
 
