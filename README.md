@@ -30,6 +30,8 @@
 - [DB-04 如何用写后读主库实现读己之写？60 秒窗口如何设置？](database/DB-04-read-your-writes-and-primary-routing-window.md)
 - [DB-05 什么是联邦查询引擎？Trino 与 2PC 有什么区别？](database/DB-05-federated-query-engines-trino-and-two-phase-commit.md)
 - [DB-06 主主复制何时发生脑裂？节点数量与网络分区如何影响仲裁？](database/DB-06-multi-primary-split-brain-quorum-and-network-partitions.md)
+- [DB-07 主从复制中主库假死，如何避免脑裂？](database/DB-07-primary-hang-leases-fencing-and-safe-failover.md)
+- [DB-08 主从复制实现 Failover 需要哪些节点与组件？](database/DB-08-primary-replica-failover-node-roles-and-topologies.md)
 
 ### Redis
 
