@@ -32,6 +32,7 @@
 - [DB-06 主主复制何时发生脑裂？节点数量与网络分区如何影响仲裁？](database/DB-06-multi-primary-split-brain-quorum-and-network-partitions.md)
 - [DB-07 主从复制中主库假死，如何避免脑裂？](database/DB-07-primary-hang-leases-fencing-and-safe-failover.md)
 - [DB-08 主从复制实现 Failover 需要哪些节点与组件？](database/DB-08-primary-replica-failover-node-roles-and-topologies.md)
+- [DB-09 什么是 NoSQL 中的全局二级索引（GSI）？](database/DB-09-dynamodb-global-secondary-index.md)
 
 ### Redis
 
